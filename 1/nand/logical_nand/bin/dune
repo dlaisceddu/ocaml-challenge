@@ -1,0 +1,4 @@
+(executable
+ (public_name logical_nand)
+ (name main)
+ (libraries logical_nand))

@@ -1,0 +1,16 @@
+# dune test
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /home/si/.cache/dune/db
+# Workspace root: /home/si/Universita/ocaml-challenge/1/nand/logical_nand
+# Auto-detected concurrency: 24
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /home/si/.opam/alf/bin/ocamlc.opt -config > /tmp/dune_57d6b5_output
