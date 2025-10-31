@@ -1,0 +1,1 @@
+let max_nat = fun a b -> if (a <= 0 || b <=0) then failwith("non sono naturali") else (if a > b then a else b)

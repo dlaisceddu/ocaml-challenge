@@ -6,8 +6,8 @@
 	],
 	"settings": {
 		"ocaml.sandbox": {
-			"kind": "dune",
-			"root": "${workspaceFolder:ocaml-challenge}"
+			"kind": "opam",
+			"switch": "alf"
 		}
 	}
 }
