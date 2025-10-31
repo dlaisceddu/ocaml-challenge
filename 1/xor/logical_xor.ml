@@ -1,0 +1,1 @@
+let xor = fun a b -> (a && not b ) || (not a && b )
