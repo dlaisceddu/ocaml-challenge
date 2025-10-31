@@ -1,1 +1,1 @@
-let abs = fun x -> if x > 0 then x else -x
+let abs x = if x > 0 then x else -x
